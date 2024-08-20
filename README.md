@@ -28,11 +28,13 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
 <li>Admin Panel -> Agents -> Roles</li>
 <li>Supreme Admin</li>
 </ol>
+<img src="https://iili.io/dVKFTrv.png">
 <h3>Configure Departments</h3>
 <ol type="a">
 <li>Admin Panel -> Agents -> Departments</li>
 <li>System Administrators</li>
 </ol>
+<img src="https://iili.io/dVKf7WX.png">
 <h3>Configure Teams</h3>
 <ol type="a">
 <li>Admin Panel -> Agents -> Teams</li>
@@ -41,6 +43,7 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
   <li>Level I Support</li>
   <li>Level II Support</li>
 </ol>
+<img src="https://iili.io/dVKq84s.png">
 <h3>Allow anyone to create tickets</h3>
 <ol type="a">
 <li>Admin Panel -> Settings -> User Settings</li>
@@ -54,6 +57,7 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
   <li>Jane</li>
   <li>John</li>
 </ol>
+<img src="https://iili.io/dVKCNqX.png">
 <h3>Configure Users (customers)</h3>
 <ol type="a">
 <li>Agent Panel -> Users -> Add New</li>
@@ -62,6 +66,8 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
   <li>Karen</li>
   <li>Ken</li>
 </ol>
+<img src="https://iili.io/dVKoWPt.png">
+<img src="https://iili.io/dVKxnft.png">
 <h3>Configure SLA</h3>
 <ol type="a">
 <li>Admin Panel -> Manage -> SLA</li>
@@ -71,6 +77,8 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
   <li>Sev-B (4 hours, 24/7)</li>
   <li>Sev-C (8 hours, business hours)</li>
 </ol>
+<img src="https://iili.io/dVKxDkG.png">
+<img src="https://iili.io/dVKz1CN.png">
 <h3>Configure Help Topics</h3>
 <ol type="a">
 <li>Admin Panel -> Manage -> Help Topics</li>
@@ -81,6 +89,10 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
   <li>Equipment Request</li>
   <li>Password Reset</li>
 </ol>
+<img src="https://iili.io/dVKIPUX.png">
+<img src="https://iili.io/dVKT907.png">
+<br>
+<p>This concludes the osTicket - Post installation configuration! Congratulations!</p>
 
 
 
