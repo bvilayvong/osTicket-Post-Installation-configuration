@@ -38,8 +38,8 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
 <li>Admin Panel -> Agents -> Teams</li>
 </ol>
 <ol type="i" start="1">
-<li>Level I Support</li>
-<li>Level II Support</li>
+  <li>Level I Support</li>
+  <li>Level II Support</li>
 </ol>
 <h3>Allow anyone to create tickets</h3>
 <ol type="a">
@@ -49,29 +49,37 @@ Admin Panel is for Systems Administrators to make configurations, setups and ins
 <h3>Configure Agents (workers)</h3>
 <ol type="a">
 <li>Admin Panel -> Agents -> Add New</li>
-<li>Jane</li>
-<li>John</li>
+</ol>
+<ol type="i">
+  <li>Jane</li>
+  <li>John</li>
 </ol>
 <h3>Configure Users (customers)</h3>
 <ol type="a">
 <li>Agent Panel -> Users -> Add New</li>
-<li>Karen</li>
-<li>Ken</li>
+</ol>
+<ol type="i">
+  <li>Karen</li>
+  <li>Ken</li>
 </ol>
 <h3>Configure SLA</h3>
 <ol type="a">
 <li>Admin Panel -> Manage -> SLA</li>
-<li>Sev-A (1 hour, 24/7)</li>
-<li>Sev-B (4 hours, 24/7)</li>
-<li>Sev-C (8 hours, business hours)</li>
+</ol>
+<ol type="i">
+  <li>Sev-A (1 hour, 24/7)</li>
+  <li>Sev-B (4 hours, 24/7)</li>
+  <li>Sev-C (8 hours, business hours)</li>
 </ol>
 <h3>Configure Help Topics</h3>
 <ol type="a">
 <li>Admin Panel -> Manage -> Help Topics</li>
-<li>Business Critical Outage</li>
-<li>Personal Computer Issues</li>
-<li>Equipment Request</li>
-<li>Password Reset</li>
+</ol>
+<ol type="i">
+  <li>Business Critical Outage</li>
+  <li>Personal Computer Issues</li>
+  <li>Equipment Request</li>
+  <li>Password Reset</li>
 </ol>
 
 
