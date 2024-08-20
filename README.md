@@ -11,7 +11,7 @@
 </ul>
 <br>
 <h2>Configuration Steps</h2>
-<ol type="I">
-<li>From your local browser, go to http://YOUR_PUBLIC_IP/osTicket/</li>
+<ol type="i">
+<li>From your local browser, go to URL http://localhost/osTicket/scp/login.php</li>
 <li>Click "Sign In"</li>
 </ol>
