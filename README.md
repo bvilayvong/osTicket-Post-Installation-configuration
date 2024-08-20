@@ -8,5 +8,10 @@
 <li>Configure Users (Customers)</li>
 <li>Configure SLAs</li>
 <li>Configure Help Topics</li>
-<li>Configuration Steps</li>
 </ul>
+<br>
+<h2>Configuration Steps</h2>
+<ol type="I">
+<li>From your local browser, go to http://YOUR_PUBLIC_IP/osTicket/</li>
+<li>Click "Sign In"</li>
+</ol>
