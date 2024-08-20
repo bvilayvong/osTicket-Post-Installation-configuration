@@ -1,5 +1,5 @@
 <img src="https://iili.io/dGyagHX.png">
-<h2>osTicket-Post-Installation-configuration</h2>
+<h1>osTicket-Post-Installation-configuration</h1>
 <ol type="A">
 <li>Post-Install Configuration Objectives</li>
 <li>Configure Roles</li>
