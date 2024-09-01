@@ -16,7 +16,7 @@
 <li>From your local browser, go to URL http://localhost/osTicket/scp/login.php</li>
 <li>Click "Sign In"</li>
 </ol>
-<img src="https://iili.io/dVFcevS.png">
+<img src="https://iili.io/dVhEwXI.png">
 <br>
 <p>You can switch between Agent Panel and Admin Panel. Agent Panel is used for working tickets as a Help Desk Professional. 
 Admin Panel is for Systems Administrators to make configurations, setups and installations. </p>
